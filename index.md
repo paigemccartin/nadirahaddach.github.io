@@ -4,6 +4,14 @@ Runtime link: [4G-coders.cf](4G-coders.cf)
 ### Project Purpose
 Description of our project and its purpose
 ***
+
+| Name | Role |
+| --- | --- |
+{% for person in site.team %}
+| {{ person.name }} | {{ person.role }} |
+
+{% end for %}
+
 ### Contributors
 
 |Contributor|Github ID/Profile|Assigned Tasks|Commits|Pair Journal|
