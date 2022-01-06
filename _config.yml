@@ -1,1 +1,14 @@
 theme: jekyll-theme-hacker
+team:
+  -
+  Name: Paige
+  Role: Design Manager
+  -
+  Name: Nadira
+  Role: Scrum Master
+  -
+  Name: Bria
+  Role: Github Admin and Technical Officer
+  -
+  Name: Jessie
+  Role: Deployment Manager
